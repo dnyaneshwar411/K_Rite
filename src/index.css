@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  font-size: 14px;
+  /* overflow-x: hidden; */
+}
+
+p {
+
+  line-height: 1;
+}
+
+@media (max-width:768px) {
+  :root {
+    font-size: 80%;
+  }
+}

@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+th {
+  color: #718096;
+}
+
+th,
+td {
+  border: 2px solid #ddd;
+  max-width: 200px;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+td,
+th {
+  padding: 10px;
+}
+
+@media (min-width: 1024px) {
+  .feed {
+    width: calc(100% - 23rem);
+  }
+}
