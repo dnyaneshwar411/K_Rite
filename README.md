@@ -35,10 +35,10 @@ npm run dev
 ```
 
 <br/>
-You can check out the repo at this link - <a href="https://youtube.com"><strong>K-Rite</strong></a>
+You can check out the repo at this link - <a href="https://k-rite-dnyaneshwar-kawade.vercel.app/"><strong>K-Rite</strong></a>
 
 <br/>
 I hope to hear from you soon contact me
 
-* Phone - <a href="tel:9067183889"><strong>9067183889</strong></a>
+* Phone - <a href="tel: 9067183889"><strong>9067183889</strong></a>
 * Mail - <a href="mailto: dnyaneshwarpk20@gmail.com"><strong>dnyaneshwarpk20@gmail.com</strong></a>

@@ -10,7 +10,7 @@
 body {
   width: 100vw;
   font-size: 14px;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 
 p {
